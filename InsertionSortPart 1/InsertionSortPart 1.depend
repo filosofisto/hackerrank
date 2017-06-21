@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1497972135 source:/home/eduardo/Private/hackerrank/InsertionSortPart 1/main.cpp
+	<map>
+	<set>
+	<list>
+	<cmath>
+	<ctime>
+	<deque>
+	<queue>
+	<stack>
+	<bitset>
+	<cstdio>
+	<vector>
+	<cstdlib>
+	<numeric>
+	<sstream>
+	<iostream>
+	<algorithm>
+
