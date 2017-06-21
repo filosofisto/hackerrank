@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1497873048 source:/home/eduardo/Private/hackerrank/TimeConversion/main.cpp
+	<bits/stdc++.h>
+	<string>
+
